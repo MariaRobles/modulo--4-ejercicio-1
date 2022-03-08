@@ -31,7 +31,7 @@ if (isNaN(numA())|| isNan(numB())){
 }else{
   resultadoSum();
 }
-}*/
+}
 
 //Lo he intentado con el isNaN y con el === NaN pero no dice que "isNan is not defined"
 
